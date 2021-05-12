@@ -11,7 +11,7 @@
 <h3>Procedure:</h3>
 <li>At first, player-1 will enter the position where he/she wants to put cross(X).</li>
     <li>Then, Player-2 will enter the position where he/she wants to put Zero(0) and repeat till three continous 0 or X comes there row wise or column wise or corner wise..</li>
-    <li>When there continous 0 or X will be there, For the last player, this is a win.</li>
+    <li>When three continous 0 or X will be there, For the last player, this is a win.</li>
     <hr>
 
     
